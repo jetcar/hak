@@ -41,7 +41,7 @@ namespace hak.AI
                 }
                 else
                 {
-                    Console.WriteLine("RIGTH");
+                    Console.WriteLine("RIGHT");
                 }
             }
             for (int i = 0; i < Math.Abs(yDifference); i++)

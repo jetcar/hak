@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AI\BatleShipGame.cs" />
+    <Compile Include="AI\BotClean.cs" />
     <Compile Include="AI\BotSavesPrincess2.cs" />
     <Compile Include="AI\BotSavesPrincess.cs" />
     <Compile Include="AI\CaptchaCracker.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="AI\Stocks.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Strings\CamelCase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

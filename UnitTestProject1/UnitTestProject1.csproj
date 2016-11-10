@@ -53,6 +53,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AI\BatleShipGameTests.cs" />
+    <Compile Include="AI\BotCleanTests.cs" />
     <Compile Include="AI\BotSavesPrincessTests2.cs" />
     <Compile Include="AI\BotSavesPrincessTests.cs" />
     <Compile Include="AI\CaptchaCrackerTests.cs" />
@@ -60,7 +61,9 @@
     <Compile Include="AI\LightsOutTests.cs" />
     <Compile Include="AI\MazeEscapeTests.cs" />
     <Compile Include="AI\StocksTests.cs" />
+    <Compile Include="Algoritms\StairCase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Strings\CamelCaseTests.cs" />
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
