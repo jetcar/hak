@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="AI\BatleShipGame.cs" />
     <Compile Include="AI\BotClean.cs" />
+    <Compile Include="AI\BotCleanStochastic.cs" />
+    <Compile Include="AI\BotCleanLarge.cs" />
     <Compile Include="AI\BotSavesPrincess2.cs" />
     <Compile Include="AI\BotSavesPrincess.cs" />
     <Compile Include="AI\CaptchaCracker.cs" />

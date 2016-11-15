@@ -53,6 +53,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AI\BatleShipGameTests.cs" />
+    <Compile Include="AI\BotCleanLargeTests.cs" />
     <Compile Include="AI\BotCleanTests.cs" />
     <Compile Include="AI\BotSavesPrincessTests2.cs" />
     <Compile Include="AI\BotSavesPrincessTests.cs" />
