@@ -54,6 +54,8 @@
     <Compile Include="AI\LightsOut.cs" />
     <Compile Include="AI\MazeEscape.cs" />
     <Compile Include="AI\Stocks.cs" />
+    <Compile Include="Leet\Add_Two_Numbers.cs" />
+    <Compile Include="Leet\WordsWar2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Strings\CamelCase.cs" />
